@@ -1,0 +1,55 @@
+[0.582s] Invoking command in '/home/jorbaal/ros2_ws/src/mi_odometria': PYTHONPATH=/home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/mi_odometria build --build-base /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build install --record /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/install.log --single-version-externally-managed install_data
+[0.757s] running egg_info
+[0.758s] creating build/mi_odometria/mi_odometria.egg-info
+[0.758s] writing build/mi_odometria/mi_odometria.egg-info/PKG-INFO
+[0.758s] writing dependency_links to build/mi_odometria/mi_odometria.egg-info/dependency_links.txt
+[0.758s] writing entry points to build/mi_odometria/mi_odometria.egg-info/entry_points.txt
+[0.758s] writing requirements to build/mi_odometria/mi_odometria.egg-info/requires.txt
+[0.758s] writing top-level names to build/mi_odometria/mi_odometria.egg-info/top_level.txt
+[0.758s] writing manifest file 'build/mi_odometria/mi_odometria.egg-info/SOURCES.txt'
+[0.760s] reading manifest file 'build/mi_odometria/mi_odometria.egg-info/SOURCES.txt'
+[0.760s] writing manifest file 'build/mi_odometria/mi_odometria.egg-info/SOURCES.txt'
+[0.760s] running build
+[0.760s] running build_py
+[0.760s] creating /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build
+[0.761s] creating /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib
+[0.761s] creating /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] copying mi_odometria/cliente.py -> /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] copying mi_odometria/servidor.py -> /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] copying mi_odometria/control_orientacion.py -> /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] copying mi_odometria/__init__.py -> /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] copying mi_odometria/Ejercicio_6.py -> /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] copying mi_odometria/leer_orientacion.py -> /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] copying mi_odometria/Ejercicio_1.py -> /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria
+[0.761s] running install
+[0.762s] running install_lib
+[0.762s] creating /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.762s] copying /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria/cliente.py -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.762s] copying /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria/servidor.py -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.762s] copying /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria/control_orientacion.py -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.763s] copying /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria/__init__.py -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.763s] copying /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria/Ejercicio_6.py -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.763s] copying /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria/leer_orientacion.py -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.763s] copying /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build/lib/mi_odometria/Ejercicio_1.py -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria
+[0.763s] byte-compiling /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria/cliente.py to cliente.cpython-310.pyc
+[0.764s] byte-compiling /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria/servidor.py to servidor.cpython-310.pyc
+[0.764s] byte-compiling /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria/control_orientacion.py to control_orientacion.cpython-310.pyc
+[0.765s] byte-compiling /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria/__init__.py to __init__.cpython-310.pyc
+[0.765s] byte-compiling /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria/Ejercicio_6.py to Ejercicio_6.cpython-310.pyc
+[0.765s] byte-compiling /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria/leer_orientacion.py to leer_orientacion.cpython-310.pyc
+[0.766s] byte-compiling /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria/Ejercicio_1.py to Ejercicio_1.cpython-310.pyc
+[0.766s] running install_data
+[0.766s] creating /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/share/ament_index
+[0.766s] creating /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/share/ament_index/resource_index
+[0.766s] creating /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/share/ament_index/resource_index/packages
+[0.766s] copying resource/mi_odometria -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/share/ament_index/resource_index/packages
+[0.766s] copying package.xml -> /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/share/mi_odometria
+[0.766s] running install_egg_info
+[0.771s] Copying build/mi_odometria/mi_odometria.egg-info to /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages/mi_odometria-0.0.0-py3.10.egg-info
+[0.771s] running install_scripts
+[0.790s] Installing cliente script to /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/mi_odometria
+[0.790s] Installing controlar_orientacion script to /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/mi_odometria
+[0.790s] Installing leer_orientacion script to /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/mi_odometria
+[0.790s] Installing servidor script to /home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/mi_odometria
+[0.791s] writing list of installed files to '/home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/install.log'
+[0.818s] Invoked command in '/home/jorbaal/ros2_ws/src/mi_odometria' returned '0': PYTHONPATH=/home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jorbaal/ros2_ws/src/mi_odometria/install/mi_odometria/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/mi_odometria build --build-base /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/build install --record /home/jorbaal/ros2_ws/src/mi_odometria/build/mi_odometria/install.log --single-version-externally-managed install_data

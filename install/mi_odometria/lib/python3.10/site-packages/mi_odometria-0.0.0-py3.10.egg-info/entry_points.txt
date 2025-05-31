@@ -1,0 +1,6 @@
+[console_scripts]
+cliente = mi_odometriacliente:main
+controlar_orientacion = mi_odometria.control_orientacion:main
+leer_orientacion = mi_odometria.leer_orientacion:main
+servidor = mi_odometria.servidor:main
+
